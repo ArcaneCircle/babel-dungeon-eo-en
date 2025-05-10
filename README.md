@@ -1,6 +1,6 @@
-# Babel Dungeon (🇩🇪/🇬🇧)
+# Babel Dungeon (Esperanto)
 
-A gamified tool for German/English vocabulary learning
+A gamified tool for Esperanto vocabulary learning for English speakers
 
 ## Contributing
 
