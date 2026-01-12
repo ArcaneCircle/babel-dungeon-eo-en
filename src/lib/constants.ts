@@ -1,6 +1,6 @@
 export const LANG1_CODE = "eo";
 export const LANG2_CODE = "en";
-export const LANG1_NAME = "German";
+export const LANG1_NAME = "Esperanto";
 export const LANG2_NAME = "English";
 
 export const MAIN_COLOR = "#92c81a",

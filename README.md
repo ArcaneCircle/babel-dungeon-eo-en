@@ -1,4 +1,4 @@
-# Babel Dungeon (Esperanto)
+# Babel Dungeon (Esperanto/English)
 
 A gamified tool for Esperanto vocabulary learning for English speakers
 
